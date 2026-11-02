@@ -6,7 +6,7 @@
 <img width="6528" height="2212" alt="1000730060" src="https://github.com/user-attachments/assets/5f40a1ac-add5-40e9-af59-c18d2dc2cf5a" />
 
 
-———————————————————————————————————————
+———————————————————————
 
 **Type**  Personal Brand
 
