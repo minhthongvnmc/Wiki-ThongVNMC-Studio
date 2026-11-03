@@ -53,3 +53,8 @@ Regarding ThongVNMC Studio: Although my account was deleted on January 17, 2026,
 ● ThongVNMC Studio has registered with Minecraft Maps to become a creative developer, with its first product scheduled for release on September 3, 2026.
 
 ● October 7, 2026: Renaming MinhthongVNMC ˢᵗᵘᵈⁱᵒ to ThongVNMC ˢᵗᵘᵈⁱᵒ
+
+## Gallery
+**Social media**
+**Youtube**
+| <img width="2920" height="2920" alt="1000728736" src="https://github.com/user-attachments/assets/27c57e68-62ee-4c15-9e92-40176131f2f8" />
