@@ -15,6 +15,7 @@
 | **Founder(s)** | Phạm Đỗ Minh Thông |
 | **Founded** | June 2025 |
 | **Headquarters** | Ho Chi Minh City, Vietnam |
+| **Key people** | Nguyễn Minh Tới (Developer)
 | **Our products** | 2 |
 | **Links** | [linktr.ee/thongvnmc.studio](https://linktr.ee/thongvnmc.studio) |
 
