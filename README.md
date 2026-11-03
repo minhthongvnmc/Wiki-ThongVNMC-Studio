@@ -20,3 +20,9 @@
 | **Links** | [linktr.ee/thongvnmc.studio](https://linktr.ee/thongvnmc.studio) |
 
 ---
+
+## Portfolio
+
+| Name | Cover | Description | Release date | Price |
+| :--- | :---: | :--- | :---: | :---: |
+| **WFHMC City** | <img src="https://github.com/user-attachments/assets/68db0859-6aed-4e83-b13c-b4054c127cce" width="120" /> | **WFHMC City** (formerly *World Flat House Map*) is a large-scale and highly detailed urban development project in Minecraft Bedrock Edition, developed by ThongVNMC Studio. First released as an alpha version on May 29, 2023, it represents continuous creative effort in transforming a flat world into a vibrant, modern metropolis. | May 29, 2023 | Free |
