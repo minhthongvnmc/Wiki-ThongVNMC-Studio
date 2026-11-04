@@ -13,7 +13,7 @@ Wiki ThongVNMC Studio (Beta)
 
 | | |
 | :--- | :--- |
-| **Type** | Personal Brand |
+| **Type** | Content creation / developer |
 | **Founder(s)** | Phạm Đỗ Minh Thông |
 | **Founded** | June 2025 |
 | **Headquarters** | Ho Chi Minh City, Vietnam |
