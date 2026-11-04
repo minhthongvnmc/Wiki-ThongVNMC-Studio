@@ -54,7 +54,17 @@ Regarding ThongVNMC Studio: Although my account was deleted on January 17, 2026,
 
 ● October 7, 2026: Renaming MinhthongVNMC ˢᵗᵘᵈⁱᵒ to ThongVNMC ˢᵗᵘᵈⁱᵒ
 
+
 ## Gallery
-**Social media**
-**Youtube**
-| <img width="2920" height="2920" alt="1000728736" src="https://github.com/user-attachments/assets/27c57e68-62ee-4c15-9e92-40176131f2f8" />
+
+### Social Media
+
+| Avatar | Banner |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/a4fec56b-850a-472b-9e85-5fa0455726f3" width="160" /><br><sub>Current profile picture of ThongVNMC ˢᵗᵘᵈⁱᵒ</sub> | <img src="https://github.com/user-attachments/assets/943501c7-1cbd-42e8-bd24-c447ecf8b264" width="260" /><br><sub>Current social media profile cover photo for ThongVNMC ˢᵗᵘᵈⁱᵒ</sub> |
+
+### Logo
+
+| Current Logo |
+| :---: |
+| <img src="https://github.com/user-attachments/assets/a527e09d-0427-490b-9fe4-80bcc48e6219" width="160" /><br><sub>Official logo of ThongVNMC ˢᵗᵘᵈⁱᵒ</sub> |
