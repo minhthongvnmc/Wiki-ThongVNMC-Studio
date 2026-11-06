@@ -10,7 +10,7 @@
 
 | | |
 | :--- | :--- |
-| **Type** | Personal Brand |
+| **Type** | Content Creation / Developer |
 | **Founder(s)** | Phạm Đỗ Minh Thông |
 | **Founded** | June 2025 |
 | **Headquarters** | Ho Chi Minh City, Vietnam |
