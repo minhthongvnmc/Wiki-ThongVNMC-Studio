@@ -15,7 +15,7 @@
 | **Founded** | June 2025 |
 | **Headquarters** | Ho Chi Minh City, Vietnam |
 | **Key people** | Nguyễn Minh Tới (Developer) |
-| **Products** | 3 |
+| **Products** | 2 |
 | **Links** | [linktr.ee/thongvnmc.studio](https://linktr.ee/thongvnmc.studio) |
 
 ---
